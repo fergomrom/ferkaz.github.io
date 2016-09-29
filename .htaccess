@@ -1,2 +1,0 @@
-RewriteCond %{HTTP_HOST} ^fernandogr.com
-RewriteRule ^(.*) http://fernandogr.com/$1 [P]
